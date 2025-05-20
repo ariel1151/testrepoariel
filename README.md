@@ -1,2 +1,2 @@
 # testrepoariel
-creat repos test cursera for demo
+used for test may file test demo ariel and cursera
